@@ -24,5 +24,5 @@ qdqw
 ### Output
 
 ## References
-[1] The Statistics Package for GNU Octave on GitHub [https://github.com/gnu-octave/statistics/?tab=readme-ov-file](https://github.com/gnu-octave/statistics/?tab=readme-ov-file)
+[1] The Statistics Package for GNU Octave on GitHub [https://github.com/gnu-octave/statistics/?tab=readme-ov-file](https://github.com/gnu-octave/statistics/?tab=readme-ov-file)  
 [2] The Statistics Package Documentation [https://gnu-octave.github.io/statistics/](https://gnu-octave.github.io/statistics/)
