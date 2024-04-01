@@ -1,4 +1,4 @@
-# statistics.m
+# Statistics.m
 Statistics.m is a free open-source toolkit used for calculating statistics of your data. It can do many basic functions in statistics such as simple descriptive statistics, distributions, curve fitting and even a bit of machine learning.
 
 ## Installation 
